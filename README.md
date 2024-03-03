@@ -1,2 +1,2 @@
 # readmeApplicationAPI
-Explore Michael Bazile Jr.'s Developer API
+Explore Michael Bazile Jr.'s Developer API,
